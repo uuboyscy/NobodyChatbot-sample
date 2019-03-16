@@ -1,3 +1,5 @@
 ## NobodyChatbot-sample
-#### Demo影片
+#### 點擊下方NobodyMart觀看Demo影片
 [![NobodyMart](https://github.com/uuboyscy/NobodyChatbot-sample/blob/master/material/food/logo.png)](https://www.youtube.com/embed/13fP55S7eD4 "NobodyMart")
+#### 無人超市架構圖
+![structure](https://github.com/uuboyscy/NobodyChatbot-sample/blob/master/structure.png)
